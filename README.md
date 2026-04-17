@@ -5,7 +5,7 @@
 Senior Full-Stack & AI Engineer specializing in building robust, scalable SaaS platforms and intelligent AI solutions that deliver real business value.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Full-Stack+Engineer;Crafting+Scalable+SaaS+Platforms;AI+Agents+%26+Intelligent+Systems;Next.js+%2F+FastAPI+%2F+Multi-Cloud&font=Fira+Code&color=8B5CF6&center=true&vCenter=true&width=720&height=50&size=22" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Full-Stack+%26+AI+Engineer;Building+Scalable+SaaS+Products;Crafting+Intelligent+AI+Agents;Next.js+%7C+FastAPI+%7C+Multi-Cloud&font=Inter&color=6366F1,8B5CF6&center=true&vCenter=true&width=720&height=55&size=24&duration=3000" alt="Typing Animation" />
 </p>
 
 Passionate about clean code, system architecture, and creating high-quality digital products that scale effortlessly.
