@@ -59,9 +59,9 @@ Passionate about combining modern full-stack development with **Agentic AI**, RA
 
 ## 📬 Let's Connect
 
-[![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/YOUR_FRIEND_UPWORK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_FRIEND_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shweta.verma.email@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016d802d1d1204c2c0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devneharani/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devneharani@gmail.com)
 
 **Currently open to:**
 - AI Agent Development & Multi-Agent Systems
