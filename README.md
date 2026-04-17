@@ -2,15 +2,15 @@
 
 **AWS Certified Developer** | **Top Rated on Upwork** | **100% Client Success**
 
-Senior Full-Stack & AI Engineer specializing in building robust, scalable SaaS platforms and intelligent AI solutions that deliver real business value.
+Senior Full-Stack & AI Engineer specializing in building intelligent, scalable SaaS platforms and production-ready **AI Agents**.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Full-Stack+%26+AI+Engineer;Building+Scalable+SaaS+Products;Crafting+Intelligent+AI+Agents;Next.js+%7C+FastAPI+%7C+Multi-Cloud&font=Inter&color=6366F1,8B5CF6&center=true&vCenter=true&width=720&height=55&size=24&duration=3000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Full-Stack+%26+AI+Engineer;Building+Intelligent+AI+Agents;Scalable+SaaS+%26+Agentic+Systems;Next.js+%7C+FastAPI+%7C+LangGraph&font=Inter&color=6366F1,8B5CF6&center=true&vCenter=true&width=720&height=55&size=24&duration=3500" alt="Typing Animation" />
 </p>
 
-Passionate about clean code, system architecture, and creating high-quality digital products that scale effortlessly.
+Passionate about combining modern full-stack development with **Agentic AI**, RAG systems, and automation to create smart, efficient, and scalable solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Devshweta1935&color=8B5CF6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Devshweta1935&color=6366F1&style=for-the-badge)
 
 ---
 
@@ -29,21 +29,21 @@ Passionate about clean code, system architecture, and creating high-quality digi
 ![TypeScript](https://skillicons.dev/icons?i=typescript) 
 ![React Native](https://skillicons.dev/icons?i=react)
 
-### Backend & AI
+### Backend & AI/ML
 ![Node.js](https://skillicons.dev/icons?i=nodejs) 
 ![Python](https://skillicons.dev/icons?i=python) 
 ![FastAPI](https://skillicons.dev/icons?i=fastapi) 
 ![Go](https://skillicons.dev/icons?i=go)
 
-**AI Agents • Machine Learning • Web Scraping • Docker • Serverless**
+**AI Agents • LangChain / LangGraph • RAG • Prompt Engineering • Cursor • Web Scraping • Docker • Serverless**
 
 ---
 
 ## 🏆 Highlights
-- AWS Certified Developer with extensive production experience
-- Consistently **Top Rated** on Upwork with **100% Job Success**
-- Successfully delivered multiple SaaS platforms and AI-powered applications
-- Strong focus on scalable architecture and long-term maintainable code
+- **AWS Certified Developer** with deep production deployment experience
+- Consistently **Top Rated** on Upwork with **100% Job Success Score**
+- Built and delivered multiple **AI-powered SaaS platforms** and intelligent agent systems
+- Specialized in **Agentic AI**, scalable architecture, and integrating LLMs into real-world applications
 
 ---
 
@@ -64,11 +64,12 @@ Passionate about clean code, system architecture, and creating high-quality digi
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shweta.verma.email@gmail.com)
 
 **Currently open to:**
-- SaaS Platform Development
-- AI Agents & Automation Projects
-- Complex Full-Stack Applications
-- Long-term Collaboration Opportunities
+- AI Agent Development & Multi-Agent Systems
+- Intelligent SaaS Platforms with LLM Integration
+- RAG-based Applications and Automation Tools
+- Complex Full-Stack + AI Projects
+- Long-term Technical Partnerships
 
 ---
 
-*Code with clarity. Deliver with excellence.*
+*Building intelligent systems with clean architecture and real impact.*
