@@ -49,10 +49,6 @@ Passionate about combining modern full-stack development with **Agentic AI**, RA
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devshweta1935&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devshweta1935&theme=dracula&layout=compact&hide_border=true)
-
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devshweta1935&theme=dracula&hide_border=true)
 
 ---
