@@ -1,28 +1,27 @@
-# Hi, I'm [Friend's Full Name] 👋
+# Hello, I'm Shweta Verma 👋
 
-**AWS Certified Developer** | **Top Rated Freelancer** | **100% Client Success**
+**AWS Certified Developer** | **Top Rated on Upwork** | **100% Client Success**
 
-Senior Full-Stack & AI Engineer with a proven track record of delivering scalable SaaS platforms, intelligent AI agents, and robust cloud-native applications.
+Senior Full-Stack & AI Engineer specializing in building robust, scalable SaaS platforms and intelligent AI solutions that deliver real business value.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Architecting+Scalable+Systems;Building+AI-Powered+Products;Next.js+%2F+FastAPI+%2F+Multi-Cloud&font=Fira+Code&color=6366F1&center=true&vCenter=true&width=720&height=50&size=23" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Full-Stack+Engineer;Crafting+Scalable+SaaS+Platforms;AI+Agents+%26+Intelligent+Systems;Next.js+%2F+FastAPI+%2F+Multi-Cloud&font=Fira+Code&color=8B5CF6&center=true&vCenter=true&width=720&height=50&size=22" alt="Typing Animation" />
 </p>
 
-Based in India. Passionate about clean architecture, performance optimization, and turning complex problems into simple, maintainable solutions.
+Passionate about clean code, system architecture, and creating high-quality digital products that scale effortlessly.
 
-![Profile Views](https://komarev.com/ghpvc/?username=FRIEND_GITHUB_USERNAME&color=6366F1&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Devshweta1935&color=8B5CF6&style=for-the-badge)
 
 ---
 
-## 🛠️ Core Expertise
+## 🛠️ Technical Expertise
 
-### Cloud & Infrastructure
+### Cloud & Platforms
 ![AWS](https://skillicons.dev/icons?i=aws) 
 ![GCP](https://skillicons.dev/icons?i=gcp) 
 ![Azure](https://skillicons.dev/icons?i=azure) 
 ![Vercel](https://skillicons.dev/icons?i=vercel) 
-![Railway](https://skillicons.dev/icons?i=railway) 
-**Serverless • Docker**
+![Railway](https://skillicons.dev/icons?i=railway)
 
 ### Frontend & Mobile
 ![Next.js](https://skillicons.dev/icons?i=nextjs) 
@@ -36,40 +35,40 @@ Based in India. Passionate about clean architecture, performance optimization, a
 ![FastAPI](https://skillicons.dev/icons?i=fastapi) 
 ![Go](https://skillicons.dev/icons?i=go)
 
-**AI Agents • Machine Learning • Web Scraping • Cursor**
+**AI Agents • Machine Learning • Web Scraping • Docker • Serverless**
 
 ---
 
-## 🏆 Professional Achievements
-- **AWS Certified Developer** with hands-on experience in production deployments
-- Consistently **Top Rated** on Upwork with **100% Job Success Score**
-- Designed and delivered multiple enterprise-grade SaaS platforms and AI solutions
-- Specialized in building high-performance, maintainable, and scalable systems
+## 🏆 Highlights
+- AWS Certified Developer with extensive production experience
+- Consistently **Top Rated** on Upwork with **100% Job Success**
+- Successfully delivered multiple SaaS platforms and AI-powered applications
+- Strong focus on scalable architecture and long-term maintainable code
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FRIEND_GITHUB_USERNAME&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devshweta1935&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FRIEND_GITHUB_USERNAME&theme=dracula&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devshweta1935&theme=dracula&layout=compact&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FRIEND_GITHUB_USERNAME&theme=dracula&hide_border=true)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devshweta1935&theme=dracula&hide_border=true)
 
 ---
 
-## 📬 Get In Touch
+## 📬 Let's Connect
 
-[![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/FRIEND_UPWORK_USERNAME)
+[![Upwork](https://img.shields.io/badge/Upwork-00A200?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/YOUR_FRIEND_UPWORK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_FRIEND_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:friend.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shweta.verma.email@gmail.com)
 
-**Open to opportunities in:**
-- SaaS Product Development
-- AI Agent & Automation Solutions
-- Complex Full-Stack Projects
-- Long-term Technical Partnerships
+**Currently open to:**
+- SaaS Platform Development
+- AI Agents & Automation Projects
+- Complex Full-Stack Applications
+- Long-term Collaboration Opportunities
 
 ---
 
-*Building with precision • Delivering with excellence*
+*Code with clarity. Deliver with excellence.*
